@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀Features
 
 - 🔒 Secure private and group messaging  
 - 💬 Real-time text communication  
