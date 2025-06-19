@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Features](#features)
+- [🚀 Features](#-features)
 - [🛠️ Tech Stack](#tech-stack)
 - [📱 How It Works](#how-it-works)
 - [🔐 Security](#security)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀Features
+## 🚀 Features
 
 - 🔒 Secure private and group messaging  
 - 💬 Real-time text communication  
