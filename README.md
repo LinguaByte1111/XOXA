@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️Tech Stack
+## 🛠️ Tech Stack
 
 - **Platform:** Android (Java / Kotlin)  
 - **Database:** MongoDB  
