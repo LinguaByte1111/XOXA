@@ -69,7 +69,7 @@
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/xoxa.git
+   git clone https://github.com/LinguaByte1111/xoxa.git
 2. Open the project in Android Studio.
 
 3. Build and run both the client and server applications on Android devices.
