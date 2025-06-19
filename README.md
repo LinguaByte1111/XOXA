@@ -4,7 +4,7 @@
 
 **XOXA** is a real-time messaging application built for Android devices. It allows users to communicate instantly through private and group chats using text messages and emoji sharing over the internet. The project consists of two components: a **Client Application** and a **Server Application**, both running on Android devices.
 
-XOXA is designed for high performance and scalability — it can run **100 conversations simultaneously**, providing smooth and reliable real-time communication even under heavy load.
+**XOXA** is designed for high performance and scalability — it can run **100 conversations simultaneously**, providing smooth and reliable real-time communication even under heavy load.
 
 
 ---
