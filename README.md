@@ -6,16 +6,15 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📱 How It Works](#-how-it-works)
-- [🔐 Security](#-security)
-- [📷 Screenshots](#-screenshots)
-- [📦 Installation](#-installation)
-- [📚 Future Enhancements](#-future-enhancements)
-- [👥 Contributing](#-contributing)
-- [📄 License](#-license)
-- [✅ Conclusion](#-conclusion)
+- [🚀 Features](#Features)
+- [🛠️ Tech Stack](#Tech-Stack)
+- [📱 How It Works](#How-It-Works)
+- [🔐 Security](#Security)
+- [📷 Screenshots](#Screenshots)
+- [📦 Installation](#Installation)
+- [📚 Future Enhancements](#Future-Enhancements)
+- [👥 Contributing](#Contributing)
+- [✅ Conclusion](#Conclusion)
 
 ---
 
@@ -92,12 +91,6 @@
 ## 👥 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
