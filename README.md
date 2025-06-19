@@ -6,15 +6,15 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Features](#-🚀-features)
-- [🛠️ Tech Stack](#Tech-Stack)
-- [📱 How It Works](#How-It-Works)
-- [🔐 Security](#Security)
-- [📷 Screenshots](#Screenshots)
-- [📦 Installation](#Installation)
-- [📚 Future Enhancements](#Future-Enhancements)
-- [👥 Contributing](#Contributing)
-- [✅ Conclusion](#Conclusion)
+- [🚀 Features](#features)
+- [🛠️ Tech Stack](#tech-stack)
+- [📱 How It Works](#how-it-works)
+- [🔐 Security](#security)
+- [📷 Screenshots](#screenshots)
+- [📦 Installation](#installation)
+- [📚 Future Enhancements](#future-enhancements)
+- [👥 Contributing](#contributing)
+- [✅ Conclusion](#conclusion)
 
 ---
 
