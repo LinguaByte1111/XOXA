@@ -7,7 +7,7 @@
 ## 📑 Table of Contents
 
 - [🚀 Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
+- [🛠️ Tech Stack](#tech-stack)
 - [📱 How It Works](#-how-it-works)
 - [🔐 Security](#-security)
 - [📷 Screenshots](#-screenshots)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 - **Platform:** Android (Java / Kotlin)  
 - **Database:** MongoDB  
