@@ -18,8 +18,8 @@
 - [📷 Screenshots](#-screenshots)
 - [📦 Installation](#-installation)
 - [📚 Future Enhancements](#-future-enhancements)
-- [👥 Contributing](#-contributing)
 - [✅ Conclusion](#-conclusion)
+- [👥 Contributing](#-contributing)
 
 ---
 
@@ -92,6 +92,13 @@
 - Voice and video call integration  
 
 ---
+## ✅ Conclusion
+
+There is always room for improvement in any application. Currently, XOXA focuses on real-time text messaging between users. While several Android apps offer similar functionality, many of them suffer from complicated interfaces and poor usability.
+
+This project aims to provide a simple, intuitive, and user-friendly chat experience. By focusing on clean design and usability, XOXA emphasizes the importance of a positive first impression in both human relationships and digital communication.
+
+---
 
 ## 👥 Contributing
 
@@ -99,9 +106,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## ✅ Conclusion
 
-There is always room for improvement in any application. Currently, XOXA focuses on real-time text messaging between users. While several Android apps offer similar functionality, many of them suffer from complicated interfaces and poor usability.
-
-This project aims to provide a simple, intuitive, and user-friendly chat experience. By focusing on clean design and usability, XOXA emphasizes the importance of a positive first impression in both human relationships and digital communication.
  
