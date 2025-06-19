@@ -6,7 +6,7 @@
 
 ## 📑 Table of Contents
 
-- [🚀 Features](#Features)
+- [🚀 Features](#🚀-Features)
 - [🛠️ Tech Stack](#Tech-Stack)
 - [📱 How It Works](#How-It-Works)
 - [🔐 Security](#Security)
