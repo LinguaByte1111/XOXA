@@ -19,6 +19,7 @@
 - [📦 Installation](#-installation)
 - [📚 Future Enhancements](#-future-enhancements)
 - [✅ Conclusion](#-conclusion)
+- [License](#License)
 - [👥 Contributing](#-contributing)
 
 ---
